@@ -11,7 +11,7 @@ const Nav = () => {
     <div className="main_header">
         <div className="container">
             <div className="logo">
-              
+              <img src="./img/logo.svg" alt="logo" />
             </div>
         </div>
     </div>
